@@ -1,0 +1,27 @@
+.completed img {
+  margin: 0 auto;
+}
+
+.completed {
+  margin: 1rem 0;
+}
+
+.voted {
+  background-color: #262f38;
+  color: #FB7413;
+  font-size: .875rem;
+  padding: .6rem .8rem;
+  border-radius: 24px;
+  display: block;
+  max-width: 175px;
+  margin: 2rem auto 1.5rem;
+}
+
+.second {
+  text-align: center;
+}
+
+.thanks-text {
+  text-align: center;
+  margin-bottom: 1rem;
+}
