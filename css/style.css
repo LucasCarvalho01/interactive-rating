@@ -94,6 +94,11 @@ p {
   cursor: pointer;
 }
 
+.rates button.active {
+  background-color: var(--light-grey);
+  color: #fff;
+}
+
 #submit {
   background-color: var(--orange);
   border: none;
