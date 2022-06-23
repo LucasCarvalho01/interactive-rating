@@ -1,6 +1,6 @@
-# Frontend Mentor - Interactive rating component
+# Interactive rating component
 
-![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
+<img src="./design/desktop-preview.jpg" alt="app preview" style="width: 70%;"/>
 
 ## Welcome! 👋
 
